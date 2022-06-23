@@ -1,5 +1,5 @@
 ### Hii! I'm Matheus Bezerra
-🌱 I'm currently developing my skills
+I'm currently developing my skills
 ###
 <div align="center">
   <a href="https://github.com/Matheusbezerra-dev">
