@@ -1,4 +1,4 @@
-### Hii! I'm Matheus Bezerra
+### Hi! I'm Matheus Bezerra
 I'm currently developing my skills
 ###
 <div align="center">
