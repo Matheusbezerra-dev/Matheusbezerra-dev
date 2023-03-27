@@ -16,6 +16,9 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  
+  ![Snake animation](https://github.com/Matheusbezerra-dev/Matheusbezerra-dev/blob/output/github-contribution-grid-snake.svg)
+  
 </div><br/>
 
 Apaixonado por tecnologia, desenvolvimento e apreendizado.
