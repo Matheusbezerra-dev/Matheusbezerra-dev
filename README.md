@@ -6,6 +6,8 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusbezerra-dev&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbezerra-dev&layout=compact&theme=tokyonight)](https://github.com/Matheusbezerra-dev/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
