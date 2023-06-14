@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.bezerra.7524/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mabezerra2/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusbezerra-dev&show_icons=true&theme=tokyonight)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusbezerra-dev&langs_count=10&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbezerra-dev&layout=compact&theme=tokyonight)](https://github.com/Matheusbezerra-dev/github-readme-stats)
 
